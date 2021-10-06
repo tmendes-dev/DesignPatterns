@@ -17,7 +17,7 @@
 :outbox_tray: 2021 Goals: improve my skills as a professional Developer.
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=tmendes-devs&theme=radical)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=tmendes-devs&theme=radical&show_icons=true)
 
 
 
