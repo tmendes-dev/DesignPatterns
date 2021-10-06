@@ -19,10 +19,6 @@
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=tmendes-dev&theme=radical&show_icons=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tmendes-dev)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 
 
