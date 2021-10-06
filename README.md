@@ -1,3 +1,6 @@
+<img src="https://github.com/tmendes-dev/DesignPatterns/blob/main/logo.png">
+
+
 # DesingPatterns
 
 ## I'm Thomas Mendes!
