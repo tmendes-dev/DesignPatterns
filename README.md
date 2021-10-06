@@ -8,7 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasmendes/)](https://www.linkedin.com/in/thomasmendes/)
  
 
-:computer: I'm .NET Software Developer!
+:computer: I'm .NET Developer!
 
 :house_with_garden: I’m from Brazil.
 
